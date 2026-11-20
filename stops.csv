@@ -1,0 +1,7 @@
+route_id,stop_id,stop_sequence,stop_name
+R101,S01,1,North Gate
+R101,S02,2,Library
+R101,S03,3,Central Market
+R102,S04,1,River Stop
+R102,S05,2,Town Hall
+R102,S06,3,Station Road
